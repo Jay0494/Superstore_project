@@ -52,13 +52,20 @@ During the transformation phase, the following steps were taken:
 5. **Shipping Preferences**: Standard Class shipping is used by **58.48%** of customers, indicating its popularity over premium options like Same Day shipping.
 
 ## **Visualizations**
+
+![Screenshot_20240914-232047_Power BI](https://github.com/user-attachments/assets/81475afb-7975-4d6b-b53d-7e21fe2547a0)
+
 ### **Sales by Product Category**
 Sales by Category
 - Shows the breakdown of sales across Office Supplies, Technology, and Furniture.
 
+![Screenshot_20240914-232101_Power BI](https://github.com/user-attachments/assets/e3ca3ac3-0272-4dcf-8560-7869e94903c5)
+
 ### **Regional Sales Distribution**
 Regional Sales
 - Visualizes total sales by region (West, East, Central, South), highlighting performance disparities across regions.
+
+![Screenshot_20240914-232114_Power BI](https://github.com/user-attachments/assets/73711618-9e83-4104-b728-26e38be62f2c)
 
 ### **Profit and Growth Trends**
 Growth Trends
