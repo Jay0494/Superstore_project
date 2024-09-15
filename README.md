@@ -16,7 +16,7 @@ This project performs a detailed analysis of sales data for a retail superstore,
 - Business recommendations based on data-driven findings.
 
 ## **Data**
-The dataset used in this project is from [Kaggle](https://www.kaggle.com/), containing sales data for a fictional retail superstore. The data includes:
+The dataset used in this project is from [Kaggle](https://www.kaggle.com/), containing sales data for a retail superstore. The data includes:
 - Sales transactions across multiple product categories.
 - Regional performance metrics (West, East, Central, South).
 - Customer segments and payment methods.
